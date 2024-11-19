@@ -2,7 +2,7 @@
 $host = 'localhost';
 $user = 'root';
 $password = '';
-$database = 'your_database_name'; // Replace with your database name
+$database = 'students'; // Replace with your database name
 
 $conn = new mysqli($host, $user, $password, $database);
 
